@@ -1,4 +1,4 @@
-package com.github.emersonwlw.citiesapi.staties;
+package com.github.emersonwlw.citiesapi.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

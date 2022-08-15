@@ -1,4 +1,4 @@
-package com.github.emersonwlw.citiesapi.staties;
+package com.github.emersonwlw.citiesapi.states;
 
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
